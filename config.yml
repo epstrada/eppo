@@ -1,33 +1,33 @@
 ## Example Config file
-BaseURL: "https://example.com"
+BaseURL: "https://eppoheemstra.nl"
 #theme: "terminalCV"
-title: "terminalCV"
+title: "Eppo's terminal CV"
 
 params:
   description: "4s3ti cv terminal format"
-  prompt: "newuser@terminalcv"
+  prompt: "visitor@eppoheemstra.nl"
 # promptColor: grey
 # promptSimbols: ":~$"
 # promptSimbolsColor: grey
-# startxLocation: https://example.com
+# startxLocation: https://eppoheemstra.nl
 # hideSocialName: true
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    Welcome to my online resume
+    Welcome to my online CV
 
 
     Type 'help' for a list of available commands
 
 
   whois: 
-      name: "John Doe"
-      profession: "Unknown"
-      location: "Somewhere"
-      email: "foo@someemail.com"
-      homelink: "https://myHomePage.com"
+      name: "Eppo Heemstra"
+      profession: "Digital Marketing Nerd"
+      location: "Netherlands"
+      email: "e.heemstra@gmaildotcom"
+      homelink: "https://eppoheemstra.nl"
       description: |
-              Here you can write something catchy about yourself
+              Digital Native collectively unconcious
 
   social:
     ## IF you want to keep them aligned just add spaces
